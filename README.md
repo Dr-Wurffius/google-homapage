@@ -1,3 +1,3 @@
 # google-homepage
 copied the google home page.
-http://www.theodinproject.com/
+did this with  help of: http://www.theodinproject.com/
